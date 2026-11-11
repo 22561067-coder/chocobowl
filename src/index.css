@@ -1,0 +1,6 @@
+﻿:root { font-family: Arial, 'Noto Sans KR', sans-serif; color: #3d281f; background: #f4eee4; font-synthesis: none; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; }
+* { box-sizing: border-box; }
+body { margin: 0; }
+button, input { font: inherit; }
+button, a, input { -webkit-tap-highlight-color: transparent; }
+button:focus-visible, input:focus-visible { outline: 2px solid #9a5a35; outline-offset: 5px; }
